@@ -1,7 +1,6 @@
 {
-  "name": "web",
-  "version": "0.1.0",
-  "private": true,
+  "name": "nodecasts-web",
+  "version": "0.0.1",
   "devDependencies": {
     "react-scripts": "0.8.0"
   },
