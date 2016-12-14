@@ -2,6 +2,9 @@
   "name": "nodecasts-web",
   "version": "0.0.1",
   "devDependencies": {
+    "enzyme": "^2.6.0",
+    "react-addons-test-utils": "^15.4.1",
+    "react-dom": "^15.4.1",
     "react-scripts": "0.8.0",
     "standard": "^8.6.0"
   },
